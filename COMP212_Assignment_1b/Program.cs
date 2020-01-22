@@ -6,7 +6,11 @@ namespace COMP212_Assignment_1b
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("\nWelcome To COMP 212 INVENTORY EVENT PROGRAM OF NAZIF SAHIM");
+            Console.WriteLine("**********************************************************");
+
+            
         }
     }
 }
